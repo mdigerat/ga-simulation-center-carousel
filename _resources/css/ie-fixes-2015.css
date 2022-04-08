@@ -1,0 +1,311 @@
+/* THIS IS WHY WE (STILL) CAN'T HAVE NICE THINGS! */
+
+.container {
+	max-width: 1170px;
+	}
+
+.warning span{
+	background-image: url(_..\img\alert-warning_ie.png_);
+}
+
+.weather span{
+	background-image: url(_..\img\alert-weather_ie.png_);
+}
+.info span{
+	background-image: url(_..\img\alert-info_ie.png_);
+}
+a .btn:focus {
+	color: #FFF !important;
+	}
+a .btn-defualt; {
+	color: #fff !important;
+}
+
+#resource-links li a span {
+	background: url(_..\img\spritesheet_resources_ie8.png_);
+	background-repeat: no-repeat;
+}
+#resource-links #pin span{
+	background-position: 0px -352px;
+}
+#resource-links #pin .active span{
+	background-position: -25px -352px;
+}
+#resource-links #calendar a span {
+	width: 28px;
+	background-position: 0px -36px;
+}
+#resource-links #map span {
+	width: 26px;
+	background-position: 0px -72px;
+}
+#resource-links #athletics span {
+	width: 41px;
+	background-position: 0px -108px;
+}
+#resource-links #river-campus span {
+	width: 46px;
+	background-position: 0px -144px;
+}
+#resource-links #faculty-staff span {
+	width: 38px;
+	background-position: 0px -180px;
+}
+#resource-links #people span {
+	width: 24px;
+	background-position: 0px -216px;
+}
+#resource-links #library span {
+	width: 38px;
+	background-position: 0px -252px;
+}
+#resource-links #moodle span {
+	width: 38px;
+	background-position: 0px -288px;
+}
+#resource-links #mysoutheast span {
+	width: 30px;
+	background-position: 0px -324px;
+}
+
+/** Resource nav hover elements **/
+#resource-links #pin a:hover > span {
+	background-position: -25px -352px;
+
+}
+#resource-links #study a:hover > span {
+	width: 32px;
+	background-position: -32px 0px;
+}
+#resource-links #calendar a:hover > span {
+	width: 28px;
+	background-position: -28px -36px;
+}
+#resource-links #map a:hover > span {
+	width: 26px;
+	background-position: -26px -72px;
+}
+#resource-links #athletics a:hover > span {
+	width: 41px;
+	background-position: -40px -108px;
+}
+#resource-links #river-campus a:hover > span {
+	width: 46px;
+	background-position: -46px -144px;
+}
+#resource-links #faculty-staff a:hover > span {
+	width: 38px;
+	background-position: -38px -180px;
+}
+#resource-links #people a:hover > span {
+	width: 24px;
+	background-position: -24px -216px;
+}
+#resource-links #library a:hover > span {
+	width: 38px;
+	background-position: -38px -252px;
+}
+#resource-links #moodle a:hover > span {
+	width: 38px;
+	background-position: -38px -288px;
+}
+#resource-links #mysoutheast a:hover > span {
+	width: 30px;
+	background-position: -30px -324px;
+}
+/**End nav hover elements **/
+#search {
+	width: 195px;
+	padding: 0px 0px 5px 0px;
+}
+
+#search form {
+	padding-top: 4px;
+}
+
+#search form input {
+	background-image: url(_..\img\search_ie.png_);
+	background-repeat: no-repeat;
+	background-position: 155px;
+	width: 185px;
+	padding-top: 5px;
+	border: 0;
+}
+
+#brand-nav {
+	background-color: #fff;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
+.carousel-caption {
+	background: #111;
+}
+
+.contacticon a{width:33px; height: 33px; display:inline-block; left:2px; position:relative; background: url(_http_\\www.semo.edu\wds\2014\assets\img\contact_spritesheet_ie.png_) top no-repeat; background-size: 104px 242px;}
+#contact-facebook {background-position: 0px 0px; margin-bottom: 5px;}
+#contact-twitter {background-position: 0px -35px; margin-bottom: 5px;}
+#contact-google {background-position: 0px -71px; margin-bottom: 5px;}
+#contact-linkedin {background-position: 0px -107px; margin-bottom: 5px;}
+#contact-pinterest {background-position: 0px -143px; margin-bottom: 5px;}
+#contact-mail {background-position: 0px -175px; margin-bottom: 5px;}
+
+.footer .phoneicon {
+	background: url(_..\img\spritesheet_contact_ie8.png_) no-repeat;
+		}
+.footer .emailicon {
+	background: url(_..\img\spritesheet_contact_ie8.png_) no-repeat;
+	background-position: 0px -14px;
+				}
+.social-icon{
+	background: url(_..\img\spritesheet_social_ie8.png_) no-repeat;
+}
+
+
+.col-footer .facebook:hover {
+	background-position: -40px 0px;
+}
+
+.col-footer .twitter {
+	background-position: 0px -40px;
+}
+
+.col-footer .twitter:hover {
+	background-position: -40px -40px;
+}
+
+.col-footer .instagram {
+	background-position: 0px -80px;
+}
+
+.col-footer .instagram:hover {
+	background-position: -40px -80px;
+}
+
+.col-footer .linkedin {
+	background-position: 0px -120px;
+}
+
+.col-footer .linkedin:hover {
+	background-position: -40px -120px;
+}
+.col-footer .vimeo {
+	background-position: 0px -160px;
+}
+.col-footer .vimeo:hover {
+	background-position: -40px -160px;
+}
+.col-footer .youtube {
+	background-position: 0px -200px;
+}
+
+.col-footer .youtube:hover {
+	background-position: -40px -200px;
+}
+.footer .slash {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=1, M12=-0.5773502691896246, M21=0, M22=1, SizingMethod='auto expand')";
+	left: -105px !important;
+}
+
+@media (max-width: 1199px) {
+	.toplinks li a {
+		font-size: 11px;
+	}
+
+	#study span {
+		padding-right: 0px;
+	}
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+	#brand-logo {
+		background: url(_..\img\brand-logo-web-md.png_) no-repeat;
+	}
+	.header {
+		height: 166px;
+	}
+	
+	.audiencenav .nav .admissions, .audiencenav .nav .current_students, .audiencenav .nav .alumni_friends, .audiencenav .nav .faculty_staff {
+		top: 51px;
+	}
+	
+	.topnav {
+		width: 770px;
+	}
+
+	#search {
+		width: 110px;
+		padding: 0px 0px 5px 0px;
+		border-right: none;
+	}
+
+	#search form {
+		padding-top: 4px;
+	}
+
+	#search form input {
+		background-position: 77px;
+		width: 100px;
+	}
+	.footer .slash {
+		left: -135px !important;
+	}
+	
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+	
+	#brand-logo {
+		background: url(_..\img\brand-logo-web-sm.png_) no-repeat;
+	}
+	#study {
+		padding-left: 0px !important;
+}
+	.topnav {
+		width: 720px;
+	}
+	
+	.topnav .nav li {
+		height: 33px;
+	}
+
+	.topnav .nav li a {
+		padding-top: 7px;
+	}
+
+	.topnav .nav li ul {
+		top: 34px;
+	}
+
+	.topnav .nav li.small a, .topnav .nav li.small a:hover {
+		padding-top: 7px;
+	}
+
+	#study {
+		padding-left: 30px;
+	}
+	
+	#search {
+		width: 100px;
+		padding: 0px 0px 5px 0px;
+		border-right: none;
+	}
+
+	#search form {
+		padding-top: 3px;
+	}
+
+	#search form input {
+		background-position: 65px;
+		width: 90px;
+		padding-top: 3px;
+	}
+	
+}
+
+@media (max-width: 767px) {
+
+	.logo {
+		background-image: url(..\img\wordmark_ie.png);
+		border: 0;
+	}
+}
